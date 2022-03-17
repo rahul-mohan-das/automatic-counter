@@ -1,4 +1,4 @@
-const input = parseInt(prompt());
+const input = parseInt(prompt("Enter a number"));
 const incrementBtn = document.getElementById("incbutton");
 const counterElement = document.getElementById("counter");
 
